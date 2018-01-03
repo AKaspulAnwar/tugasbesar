@@ -62,4 +62,8 @@ int main(){
 	cout << endl<<endl;
 	cout << "MASTRIS A * B :"<<endl;
 	int anak1=0;
+	do{
+		cout << RWz1y[anak1]<<" | ";
+		anak1++;
+	}while(anak1<5);cout<<endl;
 }
