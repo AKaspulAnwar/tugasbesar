@@ -41,4 +41,5 @@ int main(){
 		cout << Rz1y[abah1]<<" | ";
 		abah1++;
 	}while(abah1<5);cout<<endl;
+	int abah2=1;
 }
