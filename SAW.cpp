@@ -42,4 +42,8 @@ int main(){
 		abah1++;
 	}while(abah1<5);cout<<endl;
 	int abah2=1;
+	do{
+		cout << Rz2y[abah2]<<" | ";
+		abah2++;
+	}while(abah2<5);cout<<endl;
 }
