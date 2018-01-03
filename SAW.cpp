@@ -9,4 +9,9 @@ int main(){
 	//masukan gan
 	cout << "MASTRIS A :"<<endl;
 	int mama1=0;
+	do{
+		cout << z1y[mama1]<<" | ";
+		mama1++;
+	}while(mama1<4);cout<<endl;
+	int mama2=0;
 }
