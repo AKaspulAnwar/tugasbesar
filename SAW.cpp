@@ -41,12 +41,12 @@ int main(){
 		cout << Rz1y[abah1]<<" | ";
 		abah1++;
 	}while(abah1<5);cout<<endl;
-	int abah2=1;
+	int abah2=0;
 	do{
 		cout << Rz2y[abah2]<<" | ";
 		abah2++;
 	}while(abah2<5);cout<<endl;
-	int abah3=2;
+	int abah3=0;
 	do{
 		cout << Rz3y[abah3]<<" | ";
 		abah3++;
