@@ -55,5 +55,8 @@ int main(){
 	double w1=5, w2=3, w3=4, w4=4, w5=2;
 	cout << endl << "jadinya kayapa:"<<endl<< w1<<" | "<< w2<<" | "<< w3<<" | "<< w4<<" | "<< w5<<" | "<<endl;
 	//r*w
-	
+	double RWz1y[5]={ (Rz1y[0]*w1),(Rz1y[1]*w2),(Rz1y[2]*w3),(Rz1y[3]*w4),(Rz1y[4]*w5) };
+	double RWz2y[5]={ (Rz2y[0]*w1),(Rz2y[1]*w2),(Rz2y[2]*w3),(Rz2y[3]*w4),(Rz2y[4]*w5) };
+	double RWz3y[5]={ (Rz3y[0]*w1),(Rz3y[1]*w2),(Rz3y[2]*w3),(Rz3y[3]*w4),(Rz3y[4]*w5) };
+	//r*w
 }
