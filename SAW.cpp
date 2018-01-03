@@ -73,6 +73,10 @@ int main(){
 		anak2++;
 	}while(anak2<5);cout<<endl;
 	int anak3=0;
-	
+	do{
+		cout << RWz3y[anak3]<<" | ";
+		anak3++;
+	}while(anak3<5);cout<<endl;
+	//akhirnya
 	
 }
