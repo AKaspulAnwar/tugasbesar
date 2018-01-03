@@ -33,5 +33,6 @@ int main(){
 	double Rz1y[5]={ (z1y[0]/mc1),(z1y[1]/mc2),(z1y[2]/mc3),(z1y[3]/mc4),(z1y[4]/mc5) };
 	double Rz2y[5]={ (z2y[0]/mc1),(z2y[1]/mc2),(z2y[2]/mc3),(z2y[3]/mc4),(z2y[4]/mc5) };
 	double Rz3y[5]={ (z3y[0]/mc1),(z3y[1]/mc2),(z3y[2]/mc3),(z3y[3]/mc4),(z3y[4]/mc5) };
-	//r
+	//rooor
+	cout << endl<<endl;
 }
