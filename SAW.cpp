@@ -82,4 +82,10 @@ int main(){
 	double lan2[5]={ ABz2y[0]+ABz2y[1]+ABz2y[2]+ABz2y[3]+ABz2y[4] };
 	double lan3[5]={ ABz3y[0]+ABz3y[1]+ABz3y[2]+ABz3y[3]+ABz3y[4] };	
 	
+	cout<< endl << "Last of Nilai"<< endl;
+	cout << "MAB1 : "<<lan1[0]<<endl;
+	cout << "MAB2 : "<<lan2[0]<<endl;
+	cout << "MAB3 : "<<lan3[0]<<endl;
+	
+	//[] menggunakan array 1 demension
 }
