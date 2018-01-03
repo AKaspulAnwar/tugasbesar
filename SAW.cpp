@@ -59,4 +59,6 @@ int main(){
 	double RWz2y[5]={ (Rz2y[0]*w1),(Rz2y[1]*w2),(Rz2y[2]*w3),(Rz2y[3]*w4),(Rz2y[4]*w5) };
 	double RWz3y[5]={ (Rz3y[0]*w1),(Rz3y[1]*w2),(Rz3y[2]*w3),(Rz3y[3]*w4),(Rz3y[4]*w5) };
 	//r*w
+	cout << endl<<endl;
+	cout << "MASTRIS A * B :"<<endl;
 }
