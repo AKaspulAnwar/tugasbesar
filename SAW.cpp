@@ -47,4 +47,9 @@ int main(){
 		abah2++;
 	}while(abah2<5);cout<<endl;
 	int abah3=2;
+	do{
+		cout << Rz3y[abah3]<<" | ";
+		abah3++;
+	}while(abah3<5);cout<<endl;
+	//the last
 }
