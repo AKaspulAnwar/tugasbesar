@@ -36,4 +36,5 @@ int main(){
 	//rooor
 	cout << endl<<endl;
 	cout << "MASTRIS B :"<<endl;
+	int abah1=0;
 }
