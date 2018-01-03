@@ -68,4 +68,9 @@ int main(){
 	}while(anak1<5);cout<<endl;
 	
 	int anak2=1;
+	do{
+		cout << RWz2y[anak2]<<" | ";
+		anak2++;
+	}while(anak2<5);cout<<endl;
+	
 }
