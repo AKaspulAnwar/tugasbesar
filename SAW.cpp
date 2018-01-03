@@ -5,22 +5,32 @@ using namespace std;
 int main(){
 	cout.setf(ios::fixed); cout.setf(ios::showpoint); cout.precision(4);
 	//test gan
-	double z1y[4]={4,4,3,3}, z2y[4]={3,3,4,3}, z3y[4]={4,2,2,2};
+	double z1y[5]={4,5,4,3,3}, z2y[5]={3,4.3,4,3}, z3y[5]={3,4,2,2,2};
 	//masukan gan
 	cout << "MASTRIS A :"<<endl;
 	int mama1=0;
 	do{
 		cout << z1y[mama1]<<" | ";
 		mama1++;
-	}while(mama1<4);cout<<endl;
+	}while(mama1<5);cout<<endl;
 	int mama2=0;
 	do{
 		cout << z2y[mama2]<<" | ";
 		mama2++;
-	}while(mama2<4);cout<<endl;
+	}while(mama2<5);cout<<endl;
 	int mama3=0;
 	do{
 		cout << z3y[mama3]<<" | ";
 		mama3++;
-	}while(mama3<4);cout<<endl;
+	}while(mama3<5);cout<<endl;
+	//cukup dulu
+	double mc1=max(z1y[0],max(z2y[0],z3y[0)),
+	mc2=max(z1y[1],max(z2y[1],z3y[0])),
+	mc3=max(z1y[2],max(z2y[2],z3y[0])),
+	mc4=max(z1y[3],max(z2y[3],z3y[0]));
+	
+	double Rz1y[4]={ (z1y[0]/max1),(z1y[1]/max2),(z1y[2]/max3),(z1y[3]/max4),(z1y[4]/max5)};
+	double Rz2y[4]={ (z2y[0]/max1),(z2y[1]/max2),(z2y[2]/max3),(z2y[3]/max4),(z1y[4]/max5)};
+	double Rz3y[4]={ (z3y[0]/max1),(z3y[1]/max2),(z3y[2]/max3),(z3y[3]/max4),(z1y[4]/max5)};
+	//r
 }
