@@ -14,4 +14,8 @@ int main(){
 		mama1++;
 	}while(mama1<4);cout<<endl;
 	int mama2=0;
+	do{
+		cout << z2y[mama2]<<" | ";
+		mama2++;
+	}while(mama2<4);cout<<endl;
 }
