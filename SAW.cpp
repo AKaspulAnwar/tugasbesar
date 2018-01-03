@@ -7,4 +7,5 @@ int main(){
 	//test gan
 	double z1y[4]={4,4,3,3}, z2y[4]={3,3,4,3}, z3y[4]={4,2,2,2};
 	//masukan gan
+	cout << "MASTRIS A :"<<endl;
 }
