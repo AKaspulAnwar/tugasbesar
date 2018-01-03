@@ -61,4 +61,5 @@ int main(){
 	//r*w
 	cout << endl<<endl;
 	cout << "MASTRIS A * B :"<<endl;
+	int anak1=0;
 }
