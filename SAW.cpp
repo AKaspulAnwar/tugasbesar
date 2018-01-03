@@ -18,4 +18,6 @@ int main(){
 		cout << z2y[mama2]<<" | ";
 		mama2++;
 	}while(mama2<4);cout<<endl;
+	int mama3=0;
+	
 }
