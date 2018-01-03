@@ -35,4 +35,5 @@ int main(){
 	double Rz3y[5]={ (z3y[0]/mc1),(z3y[1]/mc2),(z3y[2]/mc3),(z3y[3]/mc4),(z3y[4]/mc5) };
 	//rooor
 	cout << endl<<endl;
+	cout << "MASTRIS B :"<<endl;
 }
