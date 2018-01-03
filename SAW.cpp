@@ -37,4 +37,8 @@ int main(){
 	cout << endl<<endl;
 	cout << "MASTRIS B :"<<endl;
 	int abah1=0;
+	do{
+		cout << Rz1y[abah1]<<" | ";
+		abah1++;
+	}while(abah1<5);cout<<endl;
 }
