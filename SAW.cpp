@@ -78,5 +78,8 @@ int main(){
 		anak3++;
 	}while(anak3<5);cout<<endl;
 	//akhirnya
+	double lan1[5]={ ABz1y[0]+ABz1y[1]+ABz1y[2]+ABz1y[3]+ABz1y[4] };
+	double lan2[5]={ ABz2y[0]+ABz2y[1]+ABz2y[2]+ABz2y[3]+ABz2y[4] };
+	double lan3[5]={ ABz3y[0]+ABz3y[1]+ABz3y[2]+ABz3y[3]+ABz3y[4] };	
 	
 }
